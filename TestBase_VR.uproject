@@ -42,6 +42,10 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "BlueprintFileUtils",
+			"Enabled": true
 		}
 	]
 }
